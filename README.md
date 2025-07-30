@@ -2,6 +2,7 @@
 
 🚀 Software Developer | Full Stack | Clean Code Enthusiast  
 Welcome to my GitHub profile! I am a software developer with a focus on sustainable, clean software architecture and a broad stack ranging from Python to TypeScript. I prefer to work on projects that create real added value and are fun – from machine learning to web development.
+
 ---
 
 ## 🛠️ Top Skills
@@ -29,6 +30,7 @@ Welcome to my GitHub profile! I am a software developer with a focus on sustaina
 - [My Website](https://marcel-henning.de)
 
 Let's connect, chat about clean code or exciting projects, or just code together!
+
 ---
 
 > _“Good code is its own best documentation.”_  
